@@ -38,8 +38,8 @@ POST2_TEXT = (
 # Кнопки для постов (можно поменять URL/подписей)
 POST_BUTTONS = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton("Перейти в канал", url="https://t.me/your_channel")],
-        [InlineKeyboardButton("Связаться", url="https://t.me/your_username")],
+        [InlineKeyboardButton("Перейти в канал", url="https://t.me/premium_party01")],
+        [InlineKeyboardButton("Связаться", url="https://t.me/premium_party01")],
     ]
 )
 
